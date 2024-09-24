@@ -1,4 +1,4 @@
-module gocv.io/x/gocv
+module github.com/TosakaWolf/gocv
 
 go 1.21
 
