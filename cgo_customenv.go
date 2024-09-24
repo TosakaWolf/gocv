@@ -1,5 +1,5 @@
-//go:build customenv
-// +build customenv
+//go:build !customenv && staticx
+// +build !customenv,staticx
 
 package gocv
 
